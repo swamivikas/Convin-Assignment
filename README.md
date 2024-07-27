@@ -7,14 +7,14 @@ Assignment: Daily Expenses Sharing Application
 
 # Setup MongoDB:
   ## Make sure MongoDB is installed and running. Adjust the database settings in settings.py as needed:
-  `
+   `
   DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'expenses_db',
     }
-}
-`
+    }
+     `
 
 
 # Apply the migrations:
