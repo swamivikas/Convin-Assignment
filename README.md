@@ -5,7 +5,7 @@ Assignment: Daily Expenses Sharing Application
  ## Python 3.x
  ## Django
 
-# Setup MongoDB:
+# Setup Django:
   ## Make sure MongoDB is installed and running. Adjust the database settings in settings.py as needed:
    ```
   DATABASES = {
